@@ -48,3 +48,6 @@ button {
 #resposta {
   margin-top: 20px;
 }
+a:hover{
+    color: rgb(255, 0, 179);
+}
